@@ -103,7 +103,3 @@ do
         Console.WriteLine("Please try again");
     }
 } while(true);
-
-
-
-Console.ReadKey();
